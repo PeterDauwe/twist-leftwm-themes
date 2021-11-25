@@ -1,0 +1,27 @@
+border_width = 6
+margin = [4, 4]
+default_border_color = "#0E1D37"
+floating_border_color = "#0E97DD"
+focused_border_color = "#9ed7ee"
+
+
+col1 = "#249348"
+col2 = "#04508F"
+col3 = "#1161A9"
+col4 = "#3862B4"
+col5 = "#B25DA3"
+col6 = "#0E97DD"
+col7 = "#9ed7ee"
+col8 = "#6e96a6"
+col9 = "#249348"
+col10 = "#04508F"
+col11 = "#1161A9"
+col12 = "#3862B4"
+col13 = "#B25DA3"
+col14 = "#0E97DD"
+col15 = "#9ed7ee"
+
+
+
+background = "#0E1D37"
+foreground = "#9ed7ee"
